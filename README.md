@@ -9,7 +9,8 @@
 
 ### 3、数据集
 
-[facades](https://cmp.felk.cvut.cz/~tylecr1/facade/)
+[facades](https://cmp.felk.cvut.cz/~tylecr1/facade/) 或者可以下载我区分好的数据集(链接：https://pan.baidu.com/s/1dzBEN1KVwX61QMbj9dQD8A 
+提取码：8tgu)
 
 ### 4、结果
 
